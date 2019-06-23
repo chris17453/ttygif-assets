@@ -8,7 +8,7 @@ A place to store examples, and data that have no place in the main ttygif repo
 
 ### Term Font
 
-![DOS VGA FONT](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/data/VGA_8x19font.gif)
+![DOS VGA FONT](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/examples/src_gifs/VGA_8x19font.gif)
 
 ### Examples
 some random pics from the asciinema.org website, and my computer
