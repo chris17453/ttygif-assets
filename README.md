@@ -1,6 +1,6 @@
 # ttygif-assets
 
-A place to store examples, and data that have no place in the main ![ttygif](https://github.com/chris17453/ttygif) repo
+A place to store examples, and data that have no place in the main [ttygif](https://github.com/chris17453/ttygif) repo
 
 ## reasoning
 - Keeping the bloat down
