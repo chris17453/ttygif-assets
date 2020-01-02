@@ -27,10 +27,9 @@ some random pics from the asciinema.org website, and my computer
 ![asciicast-234628](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/encode/234628.gif)
 
 ## [surpirsed Pikachu](https://asciinema.org/a/236096)
-![asciicast-236096](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/236096.gif)
+![asciicast-236096](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/encode/236096.gif)
 
 ## [CACA_DRIVER=ncurses cacademo](https://asciinema.org/a/687)
 ![asciicast-687](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/encode/687.gif)
 
 
-fdsfdsfsd
