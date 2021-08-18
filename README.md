@@ -11,6 +11,25 @@ A place to store examples, and data that have no place in the main [ttygif](http
 
 ![DOS VGA FONT](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/src_gifs/VGA_8x19font.gif)
 
+
+
+## Themes
+### Game
+![GAME](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/src_gifs/game.gif)
+### Windows7
+![WINDOWS7 VGA FONT](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/src_gifs/win7.gif)
+### MAC
+![MAC VGA FONT](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/src_gifs/mac.gif)
+### FDWM
+![FDWM](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/src_gifs/fdwm.gif)
+### OPENSOURCE
+![OPENSOURCE](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/src_gifs/opensource.gif)
+### SCRIPTED
+![SCRIPTED](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/src_gifs/scripted.gif)
+### BAR
+![BAR](https://raw.githubusercontent.com/chris17453/ttygif-assets/master/src_gifs/bar.gif)
+
+
 ### Examples
 some random pics from the asciinema.org website, and my computer
 
